@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <img src="../assets/logotrono.png" alt="trono" />
+    <img src="../assets/casate.png" alt="trono" />
   </div>
 </template>
 
@@ -16,6 +16,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
 img {
-  width: 100px;
+  width: 250px;
 }
 </style>
